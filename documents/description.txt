@@ -1,1 +1,72 @@
-[b] Spacebuild 3 Workshop Version [/b]
+[img]http://i.imgur.com/4bzAIXj.png[/img]
+
+[h1]Garry's Mod Spacebuild Project[/h1]
+
+[url=https://facepunch.com/showthread.php?t=1519499]New Facepunch Page![/url]
+
+[h1]Spacebuild News[/h1]
+
+    Spacebuild 4 is currently in development. Stay tuned!
+
+
+[h1] What is Spacebuild? [/h1]
+
+[i]   
+    Build spaceships and land on distant worlds, perhaps building settlements or space stations. It comes with one demo map which includes all of the near-solar terrestrial planets: Mercury, Venus, Earth(and Moon), Mars(and moons.) Gravity only applies when standing on a planet, and the Moon has less than half normal gravity. Mercury is so close to the sun that you will receive burning damage if you do not find shade quickly. It is difficult to build due to the planet's instability causing frequent tremors. Venus has such a heavy atmosphere that you will be instantly crushed if you venture onto the surface without a Life Support System(Air Exchanger) to stabilize your atmospheric pressure. Both Earth and Mars have regular day and night cycles, though Earth's atmosphere is so thick that you cannot see anything in space during the daytime, while on Mars you can faintly see the outline of objects and other planets in the ruddy daytime atmospheric haze.
+[/i]
+    From the [url=https://facepunch.com/showthread.php?t=289298]Original FP Thread by Shanjaq[/url]
+______________________________________________________________________________
+
+[h1]How To Use[/h1]
+
+[i]Spacebuild 3 is not like a normal gamemode, once you subscribe to it and start up a spacebuild map (any map with [b]"sb_"[/b] in it's name) it will load, Here is [url=http://steamcommunity.com/sharedfiles/filedetails/?id=104542705] sb_gooniverse[/url], one of spacebuilds more memorable maps.
+[/i]
+
+[h1]Download[/h1]
+
+[u]The Gihub Repository will always be newer than the workshop version, it is synced with it on major changes.  If you can, you really should use github and clone it, and run a pull each day to make sure you have the latest version![/u] 
+
+You can find it here, just click on the github logo below!
+
+[url=https://github.com/spacebuild/spacebuild][img]http://i.imgur.com/xThka0R.png[/img][/url]
+
+
+[url=https://github.com/spaecebuild/spacebuild/archive/master.zip][img]https://dl.dropboxusercontent.com/u/45247280/gmod/a0b406ed216c67b8d74013cccf3d7278.png[/img][/url]
+
+[b]Git/Svn Clone Link :[/b]
+https://github.com/spacebuild/spacebuild.git
+______________________________________________________________________________
+[h1]Contributing[/h1]
+
+If you feel like you want to contribute to the ongoing Spacebuild Project you can head over to its Github page located below and fork it out!
+
+[h1] Active Contributors [/h1]
+
+SnakeSVx
+generalwrex
+X-Coder
+______________________________________________________________________________
+
+[h1]Support[/h1]
+
+[b]Check the [url=https://github.com/spacebuild/spacebuild/issues] Issue Tracker[/url]  before you report any bugs as they may be listed there![/b]
+
+[b]
+If you are having issues, It is probable that your server or the server you play on has an outdated version of Spacebuild 3 or is not using the official version. Please make sure you are using this version![/b]
+
+If you are experiencing errors, please [u][b]Please post them in the error reporting Discussion![/b][/u] 
+
+[b]Please dont leave bug reports in the comments![/b]
+
+
+______________________________________________________________________________
+
+Comments are pruned to keep it clean
+Stupid comments will be deleted promptly.
+If you leave a bug report in the comments, it will be deleted.
+If you leave a bug report without explaining what it is, it will be deleted
+USE THE BUG REPORT SECTION PLEASE!
+______________________________________________________________________________
+[h1] License [/h1]
+Spacebuild 3 is licensed under Apache License Version 2.0. If you would like to read the license check here!
+https://github.com/spacebuild/spacebuild/blob/master/LICENSE
