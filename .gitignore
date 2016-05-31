@@ -1,3 +1,9 @@
 /*.iws
 *.komodoproject
 spacebuild.gma
+spacebuild.ipr
+LICENSE
+NOTICE
+README.md
+.codeclimate.yml
+addon.json
